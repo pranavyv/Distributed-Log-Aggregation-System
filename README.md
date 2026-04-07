@@ -1,3 +1,32 @@
+## Team Contributions
+
+- Member 1:
+  Name: Vinaayak G Dasika  
+  SRN: PES2UG24CS588  
+  Contribution:
+  - Designed and implemented the secure socket server
+  - Integrated TLS encryption for client-server communication
+  - Handled multi-threaded connection management and client handling
+  - Worked on queue ingestion pipeline and system integration
+
+- Member 2:
+  Name: Rehan S Bawakhan  
+  SRN: PES2UG25CS820  
+  Contribution:
+  - Developed log client for generating and sending logs
+  - Implemented load testing script for performance evaluation
+  - Worked on metrics collection (throughput, errors, queue stats)
+  - Assisted in debugging network communication and edge cases
+
+- Member 3:
+  Name: Yellapantula Venkata Pranav  
+  SRN: PES2UG24CS616  
+  Contribution:
+  - Implemented time-ordering buffer for event sequencing
+  - Designed SQLite storage layer and database schema
+  - Built Flask dashboard for log visualization and system monitoring
+  - Handled error handling (malformed logs, partial reads, shutdown)
+
 # Distributed Log System
 
 Secure multi-client distributed log aggregation built with low-level Python sockets and a Flask dashboard.
