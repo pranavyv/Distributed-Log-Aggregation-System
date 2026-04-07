@@ -163,10 +163,3 @@ Reference measurements already captured in this repo are available in `docs/PERF
 - partial line reads over TCP
 - graceful shutdown with remaining buffered logs flushed
 
-## Submission Checklist
-
-- TLS-based network communication implemented
-- Multiple concurrent clients supported
-- Low-level sockets used directly
-- Performance/load test available
-- Documentation, setup, usage, and architecture included
